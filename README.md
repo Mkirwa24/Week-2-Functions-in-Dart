@@ -1,7 +1,8 @@
 # Week-2-Functions-in-Dart
 Create a Dart program that simulates an online shopping cart system. Your program should implement the following:
 
-**Standard Functions:**
+# Standard Functions:
+
 **1** Create a function calculateTotal that accepts a list of item prices and returns the total price.
 
 **2** Implement optional parameters for tax calculation.
